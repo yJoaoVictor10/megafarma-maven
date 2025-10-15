@@ -1,0 +1,6 @@
+br\com\fiap\dao\ConnectionFactory.class
+br\com\fiap\GreetingResource.class
+br\com\fiap\to\RemedioTO.class
+br\com\fiap\resource\RemedioResource.class
+br\com\fiap\dao\RemedioDAO.class
+br\com\fiap\bo\RemedioBO.class
